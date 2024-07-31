@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^3.0.2",
+    "axios": "^1.6.4",
+    "laravel-vite-plugin": "^1.0",
+    "svelte": "^4.0.5",
+    "vite": "^5.0"
+  },
+  "dependencies": {
+    "@inertiajs/inertia": "^0.11.1",
+    "@inertiajs/svelte": "^1.2.0"
+  }
+}
